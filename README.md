@@ -207,4 +207,4 @@ Commandos: Strike Force is available as a full free version, including all featu
 Download Commandos: Strike Force today and experience the thrill of commanding your team in this epic FPS adventure!
 
 ---
-**Last updated:** 2026-11-01 23:27:01 UTC
+**Last updated:** 2026-11-02 05:33:04 UTC
